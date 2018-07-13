@@ -326,7 +326,7 @@ li#menu-academico{
 }
 .w3layouts-left {
     float: left;
-    width: 24.25%;
+    width: 70%;
     background: #ff9501;
     padding: 1em;
     margin-right: 1em;
@@ -359,13 +359,14 @@ span.logo-clr{
 }
 /*start search*/
 .w3-search-box {
+    padding: 1em;
     float: left;
     width:100%;
     margin-top: 0em;
 	position: relative;
     z-index: 1;
     display: inline-block;
-    border:2px solid #fff;
+    /* border:2px solid #fff; */
 }
 .w3-search-box input[type="text"] {
     outline: none;
